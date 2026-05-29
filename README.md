@@ -5,7 +5,7 @@ A comprehensive C++ performance analysis tool that processes over 1 million movi
 ## Building and Running
 
 ### 1. Prerequisites (Dataset Setup)
-Since this benchmark uses a specific, pre-filtered subset of the IMDb database provided by the university network, the required dataset is hosted externally to keep the repository lightweight.
+Since this benchmark uses a specific, pre-filtered subset of the IMDb database provided by the university network, the required dataset is hosted externally to keep the repository lightweight. 
 
 1. Download the prepared dataset pack (`.zip`) from this public link: **[Download IMDb Dataset Subsample](https://drive.google.com/drive/folders/1FlAuI6H84jXiQpgMCn8Kb07pG8J4k3vE?usp=sharing)**.
 2. Extract the contents (`basics.tsv` and `ratings.tsv`) directly into the **root directory** of this project.
