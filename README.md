@@ -10,7 +10,7 @@ Since this benchmark uses a specific, pre-filtered subset of the IMDb database p
 1. Download the prepared dataset pack (`.zip`) from this public link: **[Download IMDb Dataset Subsample](https://drive.google.com/drive/folders/1FlAuI6H84jXiQpgMCn8Kb07pG8J4k3vE?usp=sharing)**.
 2. Extract the contents (`basics.tsv` and `ratings.tsv`) directly into the **root directory** of this project.
 
-### 2. Compilation via Visual Studio (easiest way to compile)
+### 2.1 Compilation via Visual Studio (easiest way to compile)
 1.  **Clone or Download the Repository**: Extract the project files to your local directory.
 2.  **Open the Project**: Launch Visual Studio, select `Open a project or solution`, and navigate to the `.sln` (Solution) file or the main directory containing the source files.
 3.  **Configure Build Target**: 
@@ -20,7 +20,7 @@ Since this benchmark uses a specific, pre-filtered subset of the IMDb database p
     * Press F5 or click the green Start button to compile and run the selected target.
 
 
-### 3. Compilation via Command Line - CLI (another way of compiling)
+### 2.2 Compilation via Command Line - CLI (another way of compiling)
 From the root directory, execute the standard CMake workflow:
 ```bash
 # 1. Create and enter the build directory
