@@ -12,7 +12,7 @@ Since this benchmark uses a specific, pre-filtered subset of the IMDb database p
 
 ### 2.1 Compilation via Visual Studio (easiest way to compile)
 1.  **Clone or Download the Repository**: Extract the project files to your local directory.
-2.  **Open the Project**: Launch Visual Studio, select `Open a project or solution`, and navigate to the main directory containing the source files.
+2.  **Open the Project**: Launch Visual Studio, select `Open a local folder`, and navigate to the main directory containing the source files.
 3.  **Configure Build Target**: 
 	* Select the startup item dropdown (next to the green play button) and choose between SortingAlgorithms.exe (main application) or UnitTests.exe (tests).
     * Set the platform architecture to **x64** or **x86** depending on your target system.
